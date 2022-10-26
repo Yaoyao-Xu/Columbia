@@ -1,6 +1,3 @@
-# Title:
-# made by:
-# import here
 from math import sqrt
 from queue import PriorityQueue
 
